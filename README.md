@@ -29,5 +29,6 @@
 
 ```text
 📅 2023 - Início dos estudos em programação
-🎯 2024 - Foco em desenvolvimento Front-end
+📚 2025 - Início da graduação
+🎯 2025 - Foco em desenvolvimento Front-end
 💡 Sempre aprendendo algo novo!
