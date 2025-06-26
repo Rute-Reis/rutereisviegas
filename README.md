@@ -19,11 +19,6 @@
 - Lógica de Programação
 - Projetos
 
-## 🚀 Projetos
-
-🔹 [Projeto 1](link) - Breve descrição  
-🔹 [Projeto 2](link) - Breve descrição  
-🔹 [Projeto em Andamento] - O que você está construindo?
 
 ## 📈 Minha Jornada
 
